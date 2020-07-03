@@ -1,2 +1,2 @@
-# C-
+# CPP
 Random source code in C++
